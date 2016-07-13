@@ -1,4 +1,8 @@
-This is the project of the course Data Wrangling with MongoDB on Udacity. I first thoroughly audit and clean the dataset using Python, converting it from XML to JSON format. Then import the cleaned .json file into a MongoDB database to run queries.
+This is the project of the course Data Wrangling with MongoDB on Udacity. 
+
+I first thoroughly audit and clean the dataset using Python (see audit.py), converting it from XML to JSON format (see data.py). The JSON format should be a list of dictionaries. Then I import the cleaned .json file into a MongoDB database to run queries.
+
+The other .py files are for testing part by part.
 
 Austin and San Antonio are included in the dataset.
 
